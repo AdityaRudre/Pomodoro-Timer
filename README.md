@@ -1,6 +1,6 @@
-# 🍅 PyPomo - Python Pomodoro Timer
+# 🍅 Python Pomodoro Timer
 
-![PyPomo Logo](assets/pypomo_logo.png)
+![Pomodoro Logo]([assets/pypomo_logo.png](https://raw.githubusercontent.com/mon42ch/Pomodoro-Timer/main/tomato.png))
 
 A simple and elegant Pomodoro Timer built in Python to boost your productivity.
 
